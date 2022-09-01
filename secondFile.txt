@@ -1,0 +1,2 @@
+here im mergin from master to testing 
+im using git merging command
